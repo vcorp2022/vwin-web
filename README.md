@@ -1,5 +1,5 @@
 # VWIN VPN Landing page
-- https://vcrop2022.github.io/vwin-web/
-- https://vcrop2022.github.io/vwin-web/setup
-- https://vcrop2022.github.io/vwin-web/tips
-- https://vcrop2022.github.io/vwin-web/policy
+- https://vcorp2022.github.io/vwin-web/
+- https://vcorp2022.github.io/vwin-web/setup
+- https://vcorp2022.github.io/vwin-web/tips
+- https://vcorp2022.github.io/vwin-web/policy
